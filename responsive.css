@@ -579,7 +579,7 @@
 }
 .page5{
   height: 145vh;
-  transform: translateY(180px);
+  transform: translateY(0px);
 }
 .wrappertimeline{
   height: auto;
@@ -612,7 +612,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  transform: translateY(260px);
+  transform: translateY(0px);
 }
 .projectscards{
   width: 100%;
